@@ -14,7 +14,7 @@ Privacidad, términos y qué borra la app: https://wayout.avanc3.pe/privacidad/
 
 This repository only holds the Wayout installers for Windows and the `latest.json` file the app reads to find out whether a new version exists. Wayout is closed source; its code is not here.
 
-Download and details: https://wayout.avanc3.pe/en/
+Download and details: https://wayout.avanc3.pe
 
 Each release ships the installer (`Wayout_<version>_x64-setup.exe`) and its signature (`.sig`). The app only installs an update whose signature matches the public key built into it, so a file altered by someone else is rejected.
 
